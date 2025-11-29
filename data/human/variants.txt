@@ -1,0 +1,765 @@
+# Shuttle (generic)
+ship "Shuttle" "Shuttle (Armed)"
+	outfits
+		"Energy Blaster"
+		"nGVF-AA Fuel Cell"
+		"KP-6 Photovoltaic Panel"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X2200 Ion Steering"
+		"X2700 Ion Thruster"
+		Hyperdrive
+
+
+ship "Shuttle" "Shuttle (Shield)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"Supercapacitor"
+		"D41-HY Shield Generator"
+		"Laser Rifle"
+		"X2200 Ion Steering"
+		"X2700 Ion Thruster"
+		Hyperdrive
+
+
+# Shuttle (South)
+ship "Shuttle" "Shuttle (South)"
+	outfits
+		"Modified Blaster"
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"Chipmunk Plasma Steering"
+		"Greyhound Plasma Thruster"
+		Hyperdrive
+
+
+ship "Shuttle" "Shuttle (Rocket)"
+	outfits
+		"Heavy Rocket Pod"
+		"Heavy Rocket Rack" 2
+		"Heavy Rocket" 22
+		"nGVF-BB Fuel Cell"
+		"Supercapacitor"
+		"D14-RN Shield Generator"
+		"Outfits Expansion"
+		"Laser Rifle"
+		"Greyhound Plasma Steering"
+		"Chipmunk Plasma Thruster"
+		Hyperdrive
+
+
+# Star Barge (generic)
+ship "Star Barge" "Star Barge (Bunk)"
+	outfits
+		"Anti-Missile Turret"
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Bunk Room"
+		"Laser Rifle"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+		
+
+ship "Star Barge" "Star Barge (Thrust)"
+	outfits
+		"Anti-Missile Turret"
+		"nGVF-AA Fuel Cell"
+		"KP-6 Photovoltaic Panel"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Star Barge" "Star Barge (Shield)"
+	outfits
+		"Anti-Missile Turret"
+		"nGVF-AA Fuel Cell"
+		"KP-6 Photovoltaic Panel"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Small Radar Jammer"
+		"Laser Rifle"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Star Barge" "Star Barge (Scram)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"Supercapacitor"
+		"D23-QP Shield Generator"
+		"Fuel Pod" 3
+		"Laser Rifle"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+		"Scram Drive"
+
+
+# Star Barge (South)
+ship "Star Barge" "Star Barge (Armed South)"
+	outfits
+		"Modified Blaster Turret"
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Laser Rifle" 2
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Hyperdrive"
+
+
+# Sparrow (Generic)
+ship "Sparrow" "Sparrow (Blaster)"
+	outfits
+		"Energy Blaster" 4
+		"nGVF-BB Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Hyperdrive"
+
+
+# Sparrow (South)
+ship "Sparrow" "Sparrow (Javelin)"
+	outfits
+		"Javelin Pod" 2
+		"Javelin" 400
+		"nGVF-BB Fuel Cell"
+		"Supercapacitor"
+		"D14-RN Shield Generator"
+		"Small Radar Jammer"
+		"Laser Rifle"
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+		"Hyperdrive"
+
+
+# Heavy Shuttle (generic)
+ship "Heavy Shuttle" "Heavy Shuttle (Reverse)"
+	outfits
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"KP-6 Photovoltaic Panel"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X1100 Ion Reverse Thruster"
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Heavy Shuttle" "Heavy Shuttle (Laser)"
+	outfits
+		"Beam Laser" 2
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"KP-6 Photovoltaic Panel"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Heavy Shuttle" "Heavy Shuttle (Missile)"
+	outfits
+		"Meteor Missile Launcher"
+		"Meteor Missile" 30
+		"nGVF-BB Fuel Cell"
+		"Supercapacitor"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+# Heavy Shuttle (South)
+ship "Heavy Shuttle" "Heavy Shuttle (South)"
+	outfits
+		"Modified Blaster" 2
+		"nGVF-AA Fuel Cell"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+# Berserker (generic)
+ship "Berserker" "Berserker (Laser)"
+	outfits
+		"Beam Laser" 4
+		"nGVF-CC Fuel Cell"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Berserker" "Berserker (Meteor)"
+	outfits
+		"Meteor Missile Pod" 2
+		"Meteor Missile Launcher" 2
+		"Meteor Missile Box"
+		"Meteor Missile" 89
+		"RT-I Radiothermal"
+		"Supercapacitor"
+		"D41-HY Shield Generator"
+		"Small Radar Jammer"
+		"Laser Rifle"
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+# Berserker (South)
+ship "Berserker" "Berserker (Plasma)"
+	outfits
+		"Plasma Cannon"
+		"Javelin Mini Pod" 3
+		"Javelin" 90
+		"RT-I Radiothermal"
+		"Supercapacitor"
+		"D41-HY Shield Generator"
+		"Laser Rifle"
+		"X2700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+
+
+# Hawk (South)
+ship "Hawk" "Hawk (Rocket2)"
+	outfits
+		"Heavy Rocket Launcher" 2
+		"Heavy Rocket" 40
+		"nGVF-CC Fuel Cell"
+		"KP-6 Photovoltaic Panel" 3
+		"Supercapacitor"
+		"D23-QP Shield Generator"
+		"Laser Rifle"
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+# Scout (all)
+ship "Scout" "Scout (Laser)"
+	outfits
+		"Heavy Laser" 2
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"X3700 Ion Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+
+ship "Scout" "Scout (Missile)"
+	outfits
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 90
+		"nGVF-CC Fuel Cell"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Laser Rifle"
+		"Impala Plasma Thruster"
+		"X2200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Scout" "Scout (Proton)"
+	outfits
+		"Meteor Missile Pod" 2
+		"Meteor Missile" 14
+		"Proton Turret"
+		"nGVF-CC Fuel Cell"
+		"LP072a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle" 2
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Hyperdrive"
+
+
+ship "Scout" "Scout (Anti-Missile)"
+	outfits
+		"Energy Blaster" 2
+		"Heavy Anti-Missile Turret"
+		"NT-200 Nucleovoltaic"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		"Laser Rifle"
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Hyperdrive"
+
+
+ship "Scout" "Scout (Fast)"
+	outfits
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Luxury Accommodations"
+		"Fuel Pod"
+		"Laser Rifle" 3
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Scram Drive"
+
+
+ship "Scout" "Scout (Extreme)"
+	outfits
+		"Beam Laser" 2
+		"Laser Turret"
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Outfits Expansion" 2
+		"Laser Rifle" 2
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+
+
+# Bounder (all)
+ship "Bounder" "Bounder (Blaster)"
+	outfits
+		"Quad Blaster Turret" 2
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle" 3
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+ship "Bounder" "Bounder (Laser)"
+	outfits
+		"Laser Turret" 2
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Laser Rifle" 3
+		"A370 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Hyperdrive"
+
+
+ship "Bounder" "Bounder (Scram)"
+	outfits
+		"Anti-Missile Turret" 2
+		"RT-I Radiothermal"
+		"Supercapacitor"
+		"D23-QP Shield Generator"
+		"Fuel Pod"
+		"Laser Rifle"
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Scram Drive"
+
+
+ship "Bounder" "Bounder (Fast)"
+	outfits
+		"NT-200 Nucleovoltaic"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Fuel Pod"
+		"Laser Rifle"
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Scram Drive"
+
+
+ship "Bounder" "Bounder (Max Speed)"
+	outfits
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D14-RN Shield Generator"
+		"Laser Rifle"
+		"A520 Atomic Thruster"
+		"A255 Atomic Steering"
+		"AR120 Reverse Thruster"
+		"Hyperdrive"
+
+
+ship "Bounder" "Bounder (Extreme)"
+	outfits
+		"Laser Turret" 2
+		"Dwarf Core"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Outfits Expansion" 2
+		"Laser Rifle" 3
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"X1700 Ion Thruster"
+		"Hyperdrive"
+
+
+# Blackbird (South)
+ship "Blackbird" "Blackbird (South)"
+	outfits
+		"Heavy Laser Turret"
+		"Heavy Anti-Missile Turret"
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"Large Radar Jammer"
+		"Luxury Accommodations"
+		"Ramscoop"
+		"Fuel Pod"
+		"Laser Rifle" 6
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Scram Drive"
+
+
+# Hogshead (South)
+ship "Hogshead" "Hogshead (Meteor)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile Box" 2
+		"Meteor Missile" 90
+		"Anti-Missile Turret" 2
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Ramscoop"
+		"Luxury Accommodations"
+		"Laser Rifle" 20
+		"Capybara Reverse Thruster"
+		"Impala Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Scram Drive"
+
+
+ship "Hogshead" "Hogshead (Plasma)"
+	outfits
+		"Plasma Cannon" 2
+		"Blaster Turret" 2
+		"Fission Reactor"
+		"Supercapacitor"
+		"D41-HY Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Large Radar Jammer"
+		"Luxury Accommodations"
+		"Laser Rifle" 22
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+
+# Clipper (South)
+ship "Clipper" "Clipper (Laser)"
+	outfits
+		"Heavy Laser" 4
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D41-HY Shield Generator"
+		"Large Radar Jammer"
+		"Laser Rifle" 3
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+ship "Clipper" "Clipper (Plasma)"
+	outfits
+		"Plasma Cannon" 2
+		"Meteor Missile Pod" 2
+		"Meteor Missile Box"
+		"Meteor Missile" 29
+		"nGVF-DD Fuel Cell"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Laser Rifle" 3
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+
+
+# Frieghter (South)
+ship "Freighter" "Freighter (Quad Blaster)"
+	outfits
+		"Quad Blaster Turret" 3
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D14-RN Shield Generator"
+		"Cooling Ducts"
+		"Laser Rifle" 5
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Scram Drive"
+
+
+ship "Freighter" "Freighter (South)"
+	outfits
+		"Blaster Turret" 2
+		"Heavy Anti-Missile Turret"
+		"RT-I Radiothermal"
+		"LP036a Battery Pack"
+		"D23-QP Shield Generator"
+		"Laser Rifle" 4
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Capybara Reverse Thruster"
+		"Scram Drive"
+	turret "Blaster Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Blaster Turret"
+
+
+# Argosy (South)
+ship "Argosy" "Argosy (Plasma)"
+	outfits
+		"Plasma Cannon" 2
+		"Anti-Missile Turret" 2
+		"Meteor Missile Pod" 2
+		"Meteor Missile Box"
+		"Meteor Missile" 29
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D41-HY Shield Generator"
+		"Greyhound Plasma Thruster"
+		"Greyhound Plasma Steering"
+		"Hyperdrive"
+
+
+
+# Hauler (South)
+ship "Hauler" "Hauler (South)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 60
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		"Outfits Expansion"
+		"Fuel Pod" 2
+		"Laser Rifle" 5
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Scram Drive"
+
+
+# Hauler II (South)
+ship "Hauler II" "Hauler II (South)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 60
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		"Outfits Expansion"
+		"Fuel Pod" 2
+		"Laser Rifle" 5
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Scram Drive"
+
+
+# Hauler III (South)
+ship "Hauler III" "Hauler III (South)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 60
+		"Quad Blaster Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"S3 Thermionic"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
+		"Small Radar Jammer"
+		"Outfits Expansion"
+		"Fuel Pod" 2
+		"Laser Rifle" 5
+		"Greyhound Plasma Thruster"
+		"Impala Plasma Steering"
+		"Scram Drive"
+
+
+# Bastion (South)
+ship "Bastion" "Bastion (Torpedo)"
+	outfits
+		"Torpedo Launcher" 4
+		"Torpedo Storage Rack" 4
+		"Torpedo" 180
+		"Anti-Missile Turret"
+		"Quad Blaster Turret" 2
+		"Fission Reactor"
+		"LP036a Battery Pack"
+		"D67-TM Shield Generator"
+		"Laser Rifle" 19
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+	turret "Anti-Missile Turret"
+	turret "Quad Blaster Turret"
+	turret "Quad Blaster Turret"
+
+
+# Mule (generic)
+ship "Mule" "Mule (Proton)"
+	outfits
+		"Proton Gun" 2
+		"Proton Turret" 2
+		"Anti-Missile Turret" 2
+		"NT-200 Nucleovoltaic"
+		"LP072a Battery Pack"
+		"D94-YV Shield Generator"
+		"Small Radar Jammer"
+		"Water Coolant System"
+		"Laser Rifle" 16
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		"Hyperdrive"
+	gun "Proton Gun"
+	gun "Proton Gun"
+	turret "Proton Turret"
+	turret "Anti-Missile Turret"
+	turret "Proton Turret"
+	turret "Anti-Missile Turret"
+
+
+ship "Mule" "Mule (Plasma)"
+	outfits
+		"Plasma Cannon" 2
+		"Quad Blaster Turret" 3
+		"Heavy Anti-Missile Turret"
+		"Fission Reactor"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Large Radar Jammer"
+		"Laser Rifle" 17
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+	gun "Plasma Cannon"
+	gun "Plasma Cannon"
+	turret "Quad Blaster Turret"
+	turret "Quad Blaster Turret"
+	turret "Quad Blaster Turret"
+	turret "Heavy Anti-Missile Turret"
+	
+
+ship "Mule" "Mule (Laser)"
+	outfits
+		"Heavy Laser" 2
+		"Heavy Laser Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"Fission Reactor"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Small Radar Jammer"
+		"Water Coolant System"
+		"Laser Rifle" 16
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		"Hyperdrive"
+	gun "Heavy Laser"
+	gun "Heavy Laser"
+	turret "Heavy Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Heavy Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+
+
+ship "Mule" "Mule (Fast)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile" 60
+		"Heavy Laser Turret" 2
+		"Anti-Missile Turret" 2
+		"Fission Reactor"
+		"LP072a Battery Pack"
+		"D67-TM Shield Generator"
+		"Water Coolant System"
+		"Laser Rifle" 16
+		"AR120 Reverse Thruster"
+		"A520 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Scram Drive"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	turret "Heavy Laser Turret"
+	turret "Anti-Missile Turret"
+	turret "Heavy Laser Turret"
+	turret "Anti-Missile Turret"
+
+
+ship "Mule" "Mule (Extreme)"
+	outfits
+		"Meteor Missile Launcher" 2
+		"Meteor Missile Box"
+		"Meteor Missile" 75
+		"Heavy Laser Turret" 2
+		"Heavy Anti-Missile Turret" 2
+		"Fusion Reactor"
+		"Supercapacitor"
+		"D94-YV Shield Generator"
+		"Liquid Nitrogen Cooler"
+		"Outfits Expansion" 3
+		"Laser Rifle" 16
+		"X1700 Ion Thruster"
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Hyperdrive"
+	gun "Meteor Missile Launcher"
+	gun "Meteor Missile Launcher"
+	turret "Heavy Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Heavy Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+		
+
+# Dagger
+ship "Dagger" "Dagger (Rocket)"
+	outfits
+		"Heavy Rocket Pod" 3
+		"Heavy Rocket" 6
+		"nGVF-AA Fuel Cell"
+		"Supercapacitor"
+		"D14-RN Shield Generator"
+		"Chipmunk Plasma Thruster"
+		"Chipmunk Plasma Steering"
+
+
+# Lance
+ship "Lance" "Lance (Shield)"
+	outfits
+		"Beam Laser" 2
+		"Sidewinder Missile Pod"
+		"Sidewinder Missile" 6
+		"nGVF-AA Fuel Cell"
+		"Supercapacitor"
+		"D41-HY Shield Generator"
+		"X1700 Ion Thruster"
+		"X1200 Ion Steering"
+	gun "Sidewinder Missile Pod"
+	gun "Beam Laser"
+	gun "Beam Laser"
