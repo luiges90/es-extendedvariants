@@ -58,9 +58,9 @@ fleet "Small Southern Merchants"
 	variant 10
 		"Freighter (Fancy)"
 	variant 15
-		"Freighter (Quad Blaster)"
-	variant 15
 		"Freighter (South)"
+	variant 15
+		"Freighter (Laser)"
 	variant 10
 		"Freighter"
 		"Sparrow"
@@ -68,7 +68,7 @@ fleet "Small Southern Merchants"
 		"Freighter (Fancy)"
 		"Sparrow"
 	variant 5
-		"Freighter (Quad Blaster)"
+		"Freighter (Laser)"
 		"Sparrow (Blaster)"
 	variant 5
 		"Freighter (South)"
@@ -172,11 +172,8 @@ fleet "Large Southern Merchants"
 		"Freighter (Fancy)"
 		"Hawk"
 	variant 10
-		"Freighter (Quad Blaster)"
-		"Hawk (Rocket2)"
-	variant 10
 		"Freighter (South)"
-		"Hawk (Plasma)"
+		"Hawk (Torpedo)"
 	variant 30
 		"Freighter" 2
 		"Sparrow" 2
@@ -185,7 +182,7 @@ fleet "Large Southern Merchants"
 		"Freighter"
 		"Sparrow" 2
 	variant 15
-		"Freighter (Quad Blaster)" 2
+		"Freighter (Laser)" 2
 		"Sparrow (Blaster)" 2
 	variant 15
 		"Freighter (South)" 2
@@ -210,7 +207,7 @@ fleet "Large Southern Merchants"
 		"Freighter (Fancy)" 3
 	variant 10
 		"Bastion (Laser)"
-		"Freighter" 3
+		"Freighter (Laser)" 3
 	variant 5
 		"Bastion (Torpedo)"
 		"Freighter (South)" 3
@@ -245,7 +242,7 @@ fleet "Large Southern Merchants"
 	variant 3
 		"Argosy (Plasma)"
 		"Argosy (Blaster)"
-		"Freighter (Quad Blaster)" 3
+		"Freighter (Laser)" 3
 		"Berserker (Meteor)"
 		"Sparrow (Blaster)" 3
 	variant 20
@@ -310,8 +307,14 @@ fleet "Small Core Merchants"
 		timid frugal appeasing
 	variant 40
 		"Shuttle"
+	variant 20
+		"Shuttle (Armed)"
+	variant 20
+		"Shuttle (Shield)"
 	variant 60
 		"Star Barge (Armed)"
+	variant 30
+		"Star Barge (Shield)"
 	variant 30
 		"Freighter"
 	variant 10
@@ -319,29 +322,80 @@ fleet "Small Core Merchants"
 	variant 10
 		"Freighter (Proton)"
 	variant 10
+		"Freighter (Core)"
+	variant 10
 		"Freighter"
 		"Wasp"
+	variant 5
+		"Freighter (Core)"
+		"Wasp (Blaster)"
+	variant 5
+		"Freighter (Proton)"
+		"Wasp (Missile)"
 	variant 20
 		"Freighter"
 		"Star Barge (Armed)" 2
+	variant 10
+		"Freighter (Core)"
+		"Star Barge (Shield)" 2
 	variant 20
 		"Freighter"
 		"Shuttle" 2
 		"Quicksilver"
+	variant 10
+		"Freighter (Core)"
+		"Shuttle (Armed)" 2
+		"Quicksilver (Proton)"
 	variant 50
 		"Bounder"
+	variant 25
+		"Bounder (Blaster)"
+	variant 25
+		"Bounder (Laser)"
+	variant 25
+		"Bounder (Scram)"
+	variant 25
+		"Bounder (Fast)"
+	variant 25
+		"Bounder (Max Speed)"
+	variant 10
+		"Bounder (Extreme)"
 	variant 30
 		"Bounder (Luxury)"
 		"Wasp"
+	variant 15
+		"Bounder (Blaster)"
+		"Wasp (Blaster)"
+	variant 15
+		"Bounder (Laser)"
+		"Wasp (Missile)"
 	variant 10
 		"Freighter"
 		"Wasp" 2
+	variant 5
+		"Freighter (Core)"
+		"Wasp (Blaster)" 2
 	variant 1
 		"Mule"
 		"Dagger"
 	variant 1
 		"Mule (Heavy)"
 		"Dagger"
+	variant 1
+		"Mule (Proton)"
+		"Lance (Shield)"
+	variant 1
+		"Mule (Plasma)"
+		"Dagger (Rocket)"
+	variant 1
+		"Mule (Laser)"
+		"Dagger"
+	variant 1
+		"Mule (Fast)"
+		"Dagger"
+	variant 1
+		"Mule (Extreme)"
+		"Dagger (Rocket)"
 	variant 3
 		"Argosy"
 	variant 2
@@ -358,14 +412,36 @@ fleet "Small Core Merchants"
 		"Heavy Shuttle"
 	variant 3
 		"Heavy Shuttle (Armed)"
+	variant 3
+		"Heavy Shuttle (Reverse)"
+	variant 3
+		"Heavy Shuttle (Laser)"
+	variant 3
+		"Heavy Shuttle (Missile)"
 	variant 1
 		"Flivver (Luxury)"
 	variant 1
 		"Flivver (Racing)"
+	variant 1
+		"Flivver (Laser)"
+	variant 1
+		"Flivver (Torpedo)"
 	variant 2
 		"Scout"
 	variant 1
 		"Scout (Speedy)"
+	variant 1
+		"Scout (Laser)"
+	variant 1
+		"Scout (Missile)"
+	variant 1
+		"Scout (Proton)"
+	variant 1
+		"Scout (Anti-Missile)"
+	variant 1
+		"Scout (Fast)"
+	variant 1
+		"Scout (Extreme)"
 	variant 1
 		"Scrapper"
 
