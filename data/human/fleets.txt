@@ -288,14 +288,14 @@ fleet "Large Southern Merchants"
 	variant 2
 		"Hogshead"
 	variant 1
-		"Hogshead (Missile)"
+		"Hogshead (Meteor)"
 	variant 1
 		"Hogshead (Plasma)"
 	variant 1
 		"Hogshead"
 		"Sparrow"
 	variant 1
-		"Hogshead (Missile)"
+		"Hogshead (Meteor)"
 		"Sparrow (Blaster)"
 
 fleet "Small Core Merchants"
@@ -460,6 +460,9 @@ fleet "Large Core Merchants"
 	variant 10
 		"Freighter (Proton)" 2
 		"Quicksilver" 2
+	variant 15
+		"Freighter (Core)" 2
+		"Quicksilver" 2
 	variant 40
 		"Container Transport (Short Haul)"
 		"Wasp (Proton)" 2
@@ -480,6 +483,9 @@ fleet "Large Core Merchants"
 		"Container Transport (Proton)"
 		"Wasp"
 		"Wasp (Meteor)"
+	variant 20
+		"Container Transport (Core)"
+		"Wasp (Blaster)" 2
 	variant 15
 		"Container Transport"
 	variant 8
@@ -488,8 +494,12 @@ fleet "Large Core Merchants"
 		"Container Transport (Heavy)"
 	variant 4
 		"Container Transport (Proton)"
+	variant 8
+		"Container Transport (Core)"
 	variant 20
 		"Star Barge (Armed)" 3
+	variant 10
+		"Star Barge (Shield)" 5
 	variant 8
 		"Container Transport" 2
 		"Quicksilver" 1
@@ -504,6 +514,10 @@ fleet "Large Core Merchants"
 		"Container Transport (Proton)"
 		"Quicksilver" 1
 		"Splinter (Proton)" 1
+	variant 4
+		"Container Transport (Core)" 2
+		"Quicksilver (Proton)" 1
+		"Splinter (Core)" 1
 	variant 10
 		"Freighter" 4
 		"Quicksilver" 2
@@ -516,6 +530,10 @@ fleet "Large Core Merchants"
 		"Freighter" 4
 		"Quicksilver" 2
 		"Splinter (Proton)" 1
+	variant 5
+		"Freighter (Core)" 4
+		"Quicksilver (Proton)" 2
+		"Splinter (Core)" 1
 	variant 10
 		"Freighter" 4
 		"Protector" 1

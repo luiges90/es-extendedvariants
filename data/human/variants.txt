@@ -688,6 +688,30 @@ ship "Bastion" "Bastion (Torpedo)"
 	turret "Quad Blaster Turret"
 
 
+# Splinter (Core)
+ship "Splinter" "Splinter (Core)"
+	outfits
+		"Proton Turret" 2
+		"Heavy Anti-Missile Turret"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile Rack" 2
+		"Sidewinder Missile" 136"
+		"Fission Reactor"
+		"Supercapacitor"
+		"Water Coolant System"
+		"D67-TM Shield Generator"
+		"Small Radar Jammer"
+		"Ramscoop"
+		"Laser Rifle" 9
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Volcano Afterburner"
+		"Hyperdrive"
+	turret "Proton Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Proton Turret"
+
+
 # Mule (generic)
 ship "Mule" "Mule (Proton)"
 	outfits
@@ -801,7 +825,53 @@ ship "Mule" "Mule (Extreme)"
 	turret "Heavy Anti-Missile Turret"
 	turret "Heavy Laser Turret"
 	turret "Heavy Anti-Missile Turret"
-		
+
+
+# Container Transport (Core)
+ship "Container Transport" "Container Transport (Core)"
+	outfits
+		"Blaster Turret" 4
+		"Heavy Anti-Missile Turret"
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Fission Reactor"
+		"Supercapacitor"
+		"D67-TM Shield Generator"
+		"Large Radar Jammer"
+		"Laser Rifle" 10
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"X1100 Ion Reverse Thruster"
+		"Scram Drive"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+
+
+# Bulk Freighter (Core)
+ship "Bulk Freighter" "Bulk Freighter (Core)"
+	outfits
+		"Blaster Turret" 4
+		"Heavy Anti-Missile Turret"
+		"Torpedo Launcher" 2
+		"Torpedo" 60
+		"Fission Reactor"
+		"Supercapacitor"
+		"D67-TM Shield Generator"
+		"Large Radar Jammer"
+		"Laser Rifle" 10
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"X1100 Ion Reverse Thruster"
+		"Scram Drive"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Blaster Turret"
+	turret "Blaster Turret"
+
 
 # Dagger
 ship "Dagger" "Dagger (Rocket)"
