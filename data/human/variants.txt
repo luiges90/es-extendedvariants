@@ -520,6 +520,24 @@ ship "Hogshead" "Hogshead (Plasma)"
 		"Hyperdrive"
 
 
+ship "Hogshead" "Hogshead (Core)"
+	outfits
+		"Sidewinder Missile Pod" 2
+		"Sidewinder Missile Rack"
+		"Sidewinder Missile" 35
+		"Proton Turret"
+		"Heavy Anti-Missile Turret"
+		"S3 Thermionic"
+		"LP036a Battery Pack"
+		"D67-TM Shield Generator"
+		"Ramscoop"
+		"Luxury Accommodations"
+		"Laser Rifle" 2
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"Scram Drive"
+
+
 # Clipper (South)
 ship "Clipper" "Clipper (Laser)"
 	outfits
@@ -610,8 +628,8 @@ ship "Argosy" "Argosy (Plasma)"
 		"Meteor Missile Box"
 		"Meteor Missile" 29
 		"S3 Thermionic"
-		"LP036a Battery Pack"
-		"D41-HY Shield Generator"
+		"LP072a Battery Pack"
+		"D23-QP Shield Generator"
 		"Greyhound Plasma Thruster"
 		"Greyhound Plasma Steering"
 		"Hyperdrive"
@@ -871,6 +889,36 @@ ship "Bulk Freighter" "Bulk Freighter (Core)"
 	turret "Heavy Anti-Missile Turret"
 	turret "Blaster Turret"
 	turret "Blaster Turret"
+
+
+# Protector (Core)
+ship "Protector" "Protector (Anti-Missile)"
+	outfits
+		"Meteor Missile Pod" 2
+		"Meteor Missile Box"
+		"Meteor Missile" 29
+		"Heavy Anti-Missile Turret" 4
+		"Laser Turret" 4
+		"Fusion Reactor"
+		"Supercapacitor"
+		"D94-YV Shield Generator"
+		"D67-TM Shield Generator"
+		"Laser Rifle" 8
+		"Fuel Pod" 2
+		"Ramscoop"
+		"X3700 Ion Thruster"
+		"X3200 Ion Steering"
+		"X1100 Ion Reverse Thruster"
+		"Volcano Afterburner"
+		"Scram Drive"
+	turret "Laser Turret"
+	turret "Laser Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Heavy Anti-Missile Turret"
+	turret "Laser Turret"
+	turret "Laser Turret"
 
 
 # Dagger

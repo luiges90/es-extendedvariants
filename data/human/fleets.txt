@@ -108,10 +108,6 @@ fleet "Small Southern Merchants"
 		"Bounder (Scram)"
 	variant 1
 		"Bounder (Fast)"
-	variant 1
-		"Bounder (Max Speed)"
-	variant 1
-		"Bounder (Extreme)"
 	variant 4
 		"Heavy Shuttle"
 	variant 2
@@ -153,8 +149,6 @@ fleet "Small Southern Merchants"
 		"Scout (Anti-Missile)"
 	variant 1
 		"Scout (Fast)"
-	variant 1
-		"Scout (Extreme)"
 	variant 10
 		"Scrapper"
 
@@ -393,9 +387,6 @@ fleet "Small Core Merchants"
 	variant 1
 		"Mule (Fast)"
 		"Dagger"
-	variant 1
-		"Mule (Extreme)"
-		"Dagger (Rocket)"
 	variant 3
 		"Argosy"
 	variant 2
@@ -440,8 +431,6 @@ fleet "Small Core Merchants"
 		"Scout (Anti-Missile)"
 	variant 1
 		"Scout (Fast)"
-	variant 1
-		"Scout (Extreme)"
 	variant 1
 		"Scrapper"
 
@@ -543,13 +532,23 @@ fleet "Large Core Merchants"
 	variant 2
 		"Freighter" 4
 		"Protector (Proton)" 1
+	variant 2
+		"Freighter (Core)" 4
+		"Protector (Anti-Missile)" 1
 	variant 8
 		"Container Transport" 2
 		"Protector" 1
+	variant 4
+		"Container Transport (Core)" 2
+		"Protector (Anti-Missile)" 1
 	variant 8
 		"Container Transport" 2
 		"Wasp" 3
 		"Wasp (Meteor)" 2
+	variant 8
+		"Container Transport (Core)" 2
+		"Wasp (Blaster)" 3
+		"Wasp (Missile)" 2
 	variant 8
 		"Container Transport" 2
 		"Vanguard" 1
@@ -560,6 +559,9 @@ fleet "Large Core Merchants"
 		"Container Transport (Proton)" 2
 		"Protector (Proton)" 1
 	variant 1
+		"Container Transport (Core)" 2
+		"Protector (Anti-Missile)" 1
+	variant 1
 		"Container Transport (Heavy)" 2
 		"Vanguard (Particle)" 1
 	variant 1
@@ -568,6 +570,9 @@ fleet "Large Core Merchants"
 	variant 20
 		"Bounder"
 		"Quicksilver" 2
+	variant 10
+		"Bounder (Max Speed)"
+		"Quicksilver (Proton)" 2
 	variant 1
 		"Bactrian"
 		"Dagger" 3
@@ -600,6 +605,10 @@ fleet "Large Core Merchants"
 		"Wasp"
 		"Wasp (Meteor)"
 	variant 5
+		"Bulk Freighter (Core)"
+		"Wasp (Blaster)"
+		"Wasp (Missile)"
+	variant 5
 		"Bulk Freighter"
 	variant 2
 		"Bulk Freighter (Blaster)"
@@ -607,6 +616,8 @@ fleet "Large Core Merchants"
 		"Bulk Freighter (Heavy)"
 	variant 1
 		"Bulk Freighter (Proton)"
+	variant 2
+		"Bulk Freighter (Core)"
 	variant 2
 		"Bulk Freighter" 2
 		"Quicksilver" 1
@@ -621,18 +632,34 @@ fleet "Large Core Merchants"
 		"Bulk Freighter (Proton)"
 		"Quicksilver" 1
 		"Splinter (Proton)" 1
+	variant 1
+		"Bulk Freighter (Core)" 2
+		"Quicksilver" 1
+		"Splinter (Core)" 1
 	variant 2
 		"Bulk Freighter" 2
 		"Protector" 1
+	variant 1
+		"Bulk Freighter (Core)" 2
+		"Protector (Anti-Missile)" 1
 	variant 2
 		"Bulk Freighter" 2
 		"Wasp" 3
 		"Wasp (Meteor)" 2
+	variant 1
+		"Bulk Freighter (Core)" 2
+		"Wasp (Blaster)" 3
+		"Wasp (Missile)" 2
 	variant 2
 		"Bulk Freighter" 2
 		"Vanguard" 1
+	variant 2
+		"Bulk Freighter (Core)" 2
+		"Vanguard" 1
 	variant 1
 		"Hogshead"
+	variant 1
+		"Hogshead (Core)"
 
 fleet "Paradise Merchants"
 	government "Merchant"
