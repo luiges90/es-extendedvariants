@@ -670,17 +670,30 @@ fleet "Paradise Merchants"
 		timid frugal appeasing
 	variant 20
 		"Shuttle"
+	variant 10
+		"Shuttle (Paradise)"
 	variant 20
 		"Heavy Shuttle"
 		"Shuttle" 2
+	variant 10
+		"Heavy Shuttle (Paradise)"
+		"Shuttle (Paradise)" 2
 	variant 40
 		"Star Queen"
+	variant 20
+		"Star Queen (Fancy)"
 	variant 3
 		"Star Queen"
 		"Sparrow" 5
+	variant 1
+		"Star Queen (Fancy)"
+		"Sparrow (Blaster)" 5
 	variant 3
 		"Star Queen"
 		"Wasp" 4
+	variant 2
+		"Star Queen (Fancy)"
+		"Sparrow (Blaster)" 5
 	variant 3
 		"Star Queen"
 		"Wasp (Proton)" 3
@@ -689,11 +702,20 @@ fleet "Paradise Merchants"
 		"Wasp" 2
 		"Wasp (Meteor)"
 	variant 2
+		"Star Queen (Fancy)"
+		"Wasp (Blaster)" 3
+	variant 2
 		"Star Queen"
 		"Berserker" 3
+	variant 1
+		"Star Queen (Fancy)"
+		"Berserker (Laser)" 3
 	variant 2
 		"Star Queen"
 		"Quicksilver" 2
+	variant 1
+		"Star Queen (Fancy)"
+		"Quicksilver (Proton)" 2
 	variant 10
 		"Arrow"
 	variant 5
@@ -704,16 +726,29 @@ fleet "Paradise Merchants"
 		"Flivver"
 	variant 10
 		"Bounder"
+	variant 5
+		"Bounder (Paradise)"
+	variant 5
+		"Bounder (Max Speed)"
+	variant 2
+		"Bounder (Extreme)"
 	variant 50
 		"Flivver"
+	variant 25
+		"Flivver (Fancy)" 3
 	variant 10
 		"Flivver" 3
+	variant 5
+		"Flivver (Fancy)" 3
 	variant 20
 		"Flivver (Racing)"
 	variant 2
 		"Flivver (Racing)" 3
 	variant 2
 		"Flivver (Racing)" 6
+	variant 1
+		"Flivver" 4
+		"Flivver (Fancy)" 2
 	variant 3
 		"Blackbird"
 		"Sparrow" 2
@@ -722,6 +757,8 @@ fleet "Paradise Merchants"
 		"Berserker" 2
 	variant 5
 		"Scout (Speedy)"
+	variant 1
+		"Scout (Extreme)"
 	variant 1
 		"Container Transport (Short Haul)"
 	variant 1
